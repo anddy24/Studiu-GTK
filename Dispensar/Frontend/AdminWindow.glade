@@ -231,7 +231,7 @@
                 </child>
                 <child>
                   <object class="GtkButton" id="button_report">
-                    <property name="label" translatable="yes">Rapoarte</property>
+                    <property name="label" translatable="yes">Activitate</property>
                     <property name="name">button_report</property>
                     <property name="visible">True</property>
                     <property name="can-focus">True</property>
@@ -246,7 +246,7 @@
                 </child>
                 <child>
                   <object class="GtkButton" id="button_activity">
-                    <property name="label" translatable="yes">Activitate</property>
+                    <property name="label" translatable="yes">Export</property>
                     <property name="name">button_activity</property>
                     <property name="visible">True</property>
                     <property name="can-focus">True</property>
