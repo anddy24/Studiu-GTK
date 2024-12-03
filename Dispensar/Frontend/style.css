@@ -3,13 +3,6 @@ window {
     color: #333;
 }
 
-button {
-    background-image: none;
-    border: 0cm;
-    background-color: #50586C;
-    color: #DCE2F0;
-    font-size: 14px;
-}
 
 label {
     color: #50586C
@@ -25,25 +18,134 @@ label {
     color:#DCE2F0;
 }
 
+#button_reset {
+    background-image: none;
+    border: 0cm;
+    background-color: #50586C;
+    color: #DCE2F0;
+    font-size: 14px;
+}
+
+#button_signin {
+    background-image: none;
+    border: 0cm;
+    background-color: #50586C;
+    color: #DCE2F0;
+    font-size: 14px;
+}
+
+
 #button_logout label{
     color: #DCE2F0;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 #button_activity label{
     color: #DCE2F0;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 #button_report label{
     color: #DCE2F0;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 #button_view label{
     color: #DCE2F0;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 #button_users label{
     color: #DCE2F0;
+    margin-left: 10px;
+    margin-right: 10px;
 }
+
+
+
+#button_logout {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
+
+    margin: 10px;
+}
+
+#button_activity {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
+
+    margin: 10px;
+}
+
+#button_report {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
+
+    margin: 10px;
+}
+
+#button_view {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
+
+    margin: 10px;
+}
+
+#button_users {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
+
+    margin: 10px;
+}
+
+
+
+
+
 
 #admin_label {
     font-weight: bold;
@@ -54,6 +156,8 @@ label {
 #show_act label {
     color: #DCE2F0;
 }
+
+
 /*
 dark #50586C
 light #DCE2F0
@@ -63,30 +167,105 @@ light #DCE2F0
     background-color: #DCE2F0;
 }
 
-#toolbar-1 {
-    background-color: #DCE2F0;
-    padding-top: 10px;
-}
 
 #display_treatments label {
     color:#DCE2F0;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 #display_apointments label {
     color:#DCE2F0;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 #display_pacients label {
     color: #DCE2F0;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 #display_doctors label {
     color: #DCE2F0;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 #display_consultations label {
     color: #DCE2F0;
+    margin-left: 15px;
+    margin-right: 15px;
 }
+
+
+
+#display_treatments {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
+}
+
+#display_apointments {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
+}
+
+#display_pacients {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
+}
+
+#display_doctors {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
+}
+
+#display_consultations {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
+}
+
+
 
 #username_label {
     color: #50586C;
@@ -106,14 +285,35 @@ light #DCE2F0
 
 #display_user_log label{
     color: #DCE2F0;
+    margin-left: 15px;
+    margin-right: 15px;
 }
+
 
 #display_users label{
     color: #DCE2F0;
+    margin-left: 15px;
+    margin-right: 15px;
 }
+
 
 #button_add_user label{
     color: #DCE2F0;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#button_add_user {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
 }
 
 
@@ -129,14 +329,63 @@ light #DCE2F0
 
 #button_dashboard label{
     color:#DCE2F0;
+    margin: 5px;
+
 }
 
 #button_dashboard {
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
 }
 
 #user_box {
     background-color: #DCE2F0;
+}
+
+
+#display_users {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
+}
+
+#display_user_log{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
+}
+
+#show_act {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-image: none;
+    background-color: #50586C;
+
+    font-size: 12px;
+    border: none;
 }
