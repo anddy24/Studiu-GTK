@@ -1,0 +1,142 @@
+window {
+    background-color: #ffffff;
+    color: #333;
+}
+
+button {
+    background-image: none;
+    border: 0cm;
+    background-color: #50586C;
+    color: #DCE2F0;
+    font-size: 14px;
+}
+
+label {
+    color: #50586C
+}
+
+
+
+#button_signin label{
+    color: #DCE2F0;
+}
+
+#button_reset label{
+    color:#DCE2F0;
+}
+
+#button_logout label{
+    color: #DCE2F0;
+}
+
+#button_activity label{
+    color: #DCE2F0;
+}
+
+#button_report label{
+    color: #DCE2F0;
+}
+
+#button_view label{
+    color: #DCE2F0;
+}
+
+#button_users label{
+    color: #DCE2F0;
+}
+
+#admin_label {
+    font-weight: bold;
+    font-size:20px;
+    color: #50586C;
+}
+
+#show_act label {
+    color: #DCE2F0;
+}
+/*
+dark #50586C
+light #DCE2F0
+*/
+
+#miau {
+    background-color: #DCE2F0;
+}
+
+#toolbar-1 {
+    background-color: #DCE2F0;
+    padding-top: 10px;
+}
+
+#display_treatments label {
+    color:#DCE2F0;
+}
+
+#display_apointments label {
+    color:#DCE2F0;
+}
+
+#display_pacients label {
+    color: #DCE2F0;
+}
+
+#display_doctors label {
+    color: #DCE2F0;
+}
+
+#display_consultations label {
+    color: #DCE2F0;
+}
+
+#username_label {
+    color: #50586C;
+}
+
+#password_label {
+    color: #50586C;
+}
+
+#menubar-1 label{
+    color: #DCE2F0;
+}
+
+#menubar-1 {
+    background-color: #50586C;
+}
+
+#display_user_log label{
+    color: #DCE2F0;
+}
+
+#display_users label{
+    color: #DCE2F0;
+}
+
+#button_add_user label{
+    color: #DCE2F0;
+}
+
+
+
+
+
+
+
+#user_lab {
+    color:#50586C;
+    font-weight: bold;
+}
+
+#button_dashboard label{
+    color:#DCE2F0;
+}
+
+#button_dashboard {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+#user_box {
+    background-color: #DCE2F0;
+}
